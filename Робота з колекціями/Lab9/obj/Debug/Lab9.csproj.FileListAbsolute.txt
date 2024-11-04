@@ -1,0 +1,14 @@
+C:\Users\Hoyt\source\repos\Lab9\Lab9\bin\Debug\Lab9.exe.config
+C:\Users\Hoyt\source\repos\Lab9\Lab9\bin\Debug\Lab9.exe
+C:\Users\Hoyt\source\repos\Lab9\Lab9\bin\Debug\Lab9.pdb
+C:\Users\Hoyt\source\repos\Lab9\Lab9\obj\Debug\Lab9.csproj.AssemblyReference.cache
+C:\Users\Hoyt\source\repos\Lab9\Lab9\obj\Debug\Lab9.csproj.CoreCompileInputs.cache
+C:\Users\Hoyt\source\repos\Lab9\Lab9\obj\Debug\Lab9.exe
+C:\Users\Hoyt\source\repos\Lab9\Lab9\obj\Debug\Lab9.pdb
+D:\С#\Робота з колекціями\Lab9\bin\Debug\Lab9.exe.config
+D:\С#\Робота з колекціями\Lab9\bin\Debug\Lab9.exe
+D:\С#\Робота з колекціями\Lab9\bin\Debug\Lab9.pdb
+D:\С#\Робота з колекціями\Lab9\obj\Debug\Lab9.csproj.AssemblyReference.cache
+D:\С#\Робота з колекціями\Lab9\obj\Debug\Lab9.csproj.CoreCompileInputs.cache
+D:\С#\Робота з колекціями\Lab9\obj\Debug\Lab9.exe
+D:\С#\Робота з колекціями\Lab9\obj\Debug\Lab9.pdb
