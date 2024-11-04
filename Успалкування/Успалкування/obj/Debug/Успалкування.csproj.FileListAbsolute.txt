@@ -1,0 +1,7 @@
+C:\Users\Vaz1k28\source\repos\Успалкування\Успалкування\bin\Debug\Успалкування.exe.config
+C:\Users\Vaz1k28\source\repos\Успалкування\Успалкування\bin\Debug\Успалкування.exe
+C:\Users\Vaz1k28\source\repos\Успалкування\Успалкування\bin\Debug\Успалкування.pdb
+C:\Users\Vaz1k28\source\repos\Успалкування\Успалкування\obj\Debug\Успалкування.csproj.AssemblyReference.cache
+C:\Users\Vaz1k28\source\repos\Успалкування\Успалкування\obj\Debug\Успалкування.csproj.CoreCompileInputs.cache
+C:\Users\Vaz1k28\source\repos\Успалкування\Успалкування\obj\Debug\Успалкування.exe
+C:\Users\Vaz1k28\source\repos\Успалкування\Успалкування\obj\Debug\Успалкування.pdb
