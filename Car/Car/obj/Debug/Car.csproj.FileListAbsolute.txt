@@ -1,0 +1,7 @@
+D:\С#\Car\Car\bin\Debug\Car.exe.config
+D:\С#\Car\Car\bin\Debug\Car.exe
+D:\С#\Car\Car\bin\Debug\Car.pdb
+D:\С#\Car\Car\obj\Debug\Car.csproj.AssemblyReference.cache
+D:\С#\Car\Car\obj\Debug\Car.csproj.CoreCompileInputs.cache
+D:\С#\Car\Car\obj\Debug\Car.exe
+D:\С#\Car\Car\obj\Debug\Car.pdb
