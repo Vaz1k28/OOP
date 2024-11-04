@@ -1,0 +1,14 @@
+C:\Users\Vaz1k28\source\repos\Лаб4\4.7\bin\Debug\net8.0\4.7.exe
+C:\Users\Vaz1k28\source\repos\Лаб4\4.7\bin\Debug\net8.0\4.7.deps.json
+C:\Users\Vaz1k28\source\repos\Лаб4\4.7\bin\Debug\net8.0\4.7.runtimeconfig.json
+C:\Users\Vaz1k28\source\repos\Лаб4\4.7\bin\Debug\net8.0\4.7.dll
+C:\Users\Vaz1k28\source\repos\Лаб4\4.7\bin\Debug\net8.0\4.7.pdb
+C:\Users\Vaz1k28\source\repos\Лаб4\4.7\obj\Debug\net8.0\4.7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vaz1k28\source\repos\Лаб4\4.7\obj\Debug\net8.0\4.7.AssemblyInfoInputs.cache
+C:\Users\Vaz1k28\source\repos\Лаб4\4.7\obj\Debug\net8.0\4.7.AssemblyInfo.cs
+C:\Users\Vaz1k28\source\repos\Лаб4\4.7\obj\Debug\net8.0\4.7.csproj.CoreCompileInputs.cache
+C:\Users\Vaz1k28\source\repos\Лаб4\4.7\obj\Debug\net8.0\4.7.dll
+C:\Users\Vaz1k28\source\repos\Лаб4\4.7\obj\Debug\net8.0\refint\4.7.dll
+C:\Users\Vaz1k28\source\repos\Лаб4\4.7\obj\Debug\net8.0\4.7.pdb
+C:\Users\Vaz1k28\source\repos\Лаб4\4.7\obj\Debug\net8.0\4.7.genruntimeconfig.cache
+C:\Users\Vaz1k28\source\repos\Лаб4\4.7\obj\Debug\net8.0\ref\4.7.dll
